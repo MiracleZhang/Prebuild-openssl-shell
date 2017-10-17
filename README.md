@@ -25,5 +25,5 @@ ios
 4. lib in build dir
 
 
-Thx, enjoy it!!!!
+Good luck, enjoy it!!!!
 
